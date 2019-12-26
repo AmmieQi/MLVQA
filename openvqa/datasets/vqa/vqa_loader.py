@@ -1,6 +1,7 @@
 # --------------------------------------------------------
 # OpenVQA
 # Written by Yuhao Cui https://github.com/cuiyuhao1996
+# modified by jie ma
 # --------------------------------------------------------
 
 import numpy as np
