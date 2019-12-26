@@ -25,7 +25,7 @@ Results and models are available in [MODEL_ZOO.md](MODEL_ZOO.md).
 | [MFH](https://arxiv.org/abs/1708.03619)       |  ✓       |         |         |
 | [BAN](https://arxiv.org/abs/1805.07932)       |  ✓       |         |         |
 | [MCAN](https://arxiv.org/abs/1906.10770)      |  ✓       |         |         |
-
+| [MLVQA]										|  ✓       |         |         |
 
 ## Installation
 
@@ -40,4 +40,4 @@ Please see [GETTING_STARTED.md](GETTING_STARTED.md) for the basic usage of OpenV
 We appreciate all contributions to improve OpenVQA. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for the guideline.
 
 ## Contact
-This repo is currently maintained by Zhou Yu ([@yuzcccc](https://github.com/yuzcccc)) and Yuhao Cui ([@cuiyuhao1996](https://github.com/cuiyuhao1996)).
+
