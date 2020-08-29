@@ -5,6 +5,7 @@ The codes of our method is based on the [openvqa](https://github.com/MILVLG/open
 installation and requirements
 ----
 all the required packages are the same as openvqa. 
+The MLVQA are placed in /openvqa/models/mlvqa.
 
 License
 ----
