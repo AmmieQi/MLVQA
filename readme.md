@@ -4,8 +4,9 @@ The codes of our method is based on the [openvqa](https://github.com/MILVLG/open
 
 installation and requirements
 ----
-all the required packages are the same as openvqa. 
-The MLVQA are placed in /openvqa/models/mlvqa.
+* all the required packages are the same as openvqa. 
+* The architecture of MLVQA is placed in /openvqa/models/mlvqa.
+* The proposed word masking algorithm is placed in /openvqa/datasets/vqa/vqa_loader.py
 
 License
 ----
