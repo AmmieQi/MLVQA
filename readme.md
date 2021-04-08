@@ -1,12 +1,10 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
   
-The codes of our method is based on the [openvqa](https://github.com/MILVLG/openvqa/blob/master/README.md), i.e., only the mlvqa method is developed by jie ma. see the details in the [openvqa](https://github.com/MILVLG/openvqa/blob/master/README.md). We propose a multitask learning framework for visual question answering via intra- and inter-modality modeling named MLVQA.
+# Multitask Learning for Visual Question Answering (MLVQA)
 
-installation and requirements
+The architecture
 ----
-* all the required packages are the same as openvqa. 
-* The architecture of MLVQA is placed in /openvqa/models/mlvqa.
-* The proposed word masking algorithm is placed in /openvqa/datasets/vqa/vqa_loader.py
+![MLVQA](https://github.com/dr-majie/MLVQA/blob/master/mlvqa2.png)
 
 License
 ----
