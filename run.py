@@ -1,8 +1,3 @@
-# --------------------------------------------------------
-# OpenVQA
-# Written by Yuhao Cui https://github.com/cuiyuhao1996
-# --------------------------------------------------------
-
 from openvqa.models.model_loader import CfgLoader
 from utils.exec import Execution
 import argparse, yaml
@@ -21,26 +16,11 @@ def parse_args():
 
     parser.add_argument('--MODEL', dest='MODEL',
                       choices=[
-                           'mcan_small',
-                           'mcan_large',
-                           'ban_4',
-                           'ban_8',
-                           'mfb',
-                           'mfh',
-                           'mem',
                            'mlvqa',
-                           'butd'
                            ]
                         ,
                       help='{'
-                           'mcan_small,'
-                           'mcan_large,'
-                           'ban_4,'
-                           'ban_8,'
-                           'mfb,'
-                           'mfh,'
                            'mlvqa'
-                           'butd,'
                            '}'
                         ,
                       type=str, required=True)
