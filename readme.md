@@ -10,12 +10,13 @@
 
 ## Requirements
 
-| Package   | Version  |
-| --------- | --------:|
-| nltk      | >= 3.4.5 |
-| numpy     | >= 1.19.0|
-| spacy     | >= 2.3.2 |
-| torch     | >= 1.1.0 |
+| Package   | Version   |
+| --------- | ---------:|
+| nltk      | >= 3.4.5  |
+| numpy     | >= 1.19.0 |
+| spacy     | >= 2.3.2  |
+| torch     | >= 1.1.0  |
+| pyyaml    | -         |
 
 License
 ----
